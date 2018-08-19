@@ -6,7 +6,6 @@ Release security update on 2018/08/01 (firmware version : 3.8.9.1)
 http://www.draytek.com.tw/ftp/Vigor2912/Firmware/v3.8.9.1/DrayTek_Vigor2912_V3.8.9.1_01release-note.pdf
 
 detail PoC and Explanation are as follows: (PDF files)
-
 01. Draytek unauthorized function access
 02. Draytek usbstorageget.htm page Stored XSS
 03.Draytek service.htm page Stored XSS
